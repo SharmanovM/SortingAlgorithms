@@ -1,0 +1,5 @@
+The algorithm is a step by step procedure for solving a problem.
+An efficient sorting algorithm organizes data quickly in computer memory.
+When data is sorted, binary search can find any key rapidly.
+The algorithm sorts the array and the list of words.
+Good data structures make the algorithm faster and better.
